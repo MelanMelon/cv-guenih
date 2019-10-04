@@ -40,7 +40,7 @@
 													<h1>Adam Nurul Firdaus</h1>
 													<h5 class="mt-20 font-grey">S-1 Sistem Informasi | Web Programmer</h5>
 													<div class="mt-30">
-														<a id="download_cv" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect  bg-green font-white mr-10" href="<?php site_url(); ?>cv/CV_Adam.pdf">Unduh CV</a>
+														<a id="download_cv" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect  bg-green font-white mr-10" href="<?php site_url(); ?>cv/CV_Adam.pdf" target="_blank">Unduh CV</a>
 														<a class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect bg-blue font-white" href="#contact_sec" data-scroll>Kontak</a>
 													</div>
 												</div>
